@@ -266,7 +266,6 @@ SOFTWARE.
 
 <div align="center">
 
-Built with ❤️ for Indian kirana shop owners &nbsp;•&nbsp; College Project — Java + Firebase + Android
 
 ⭐ **Star this repo if you found it useful!**
 
