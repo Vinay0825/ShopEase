@@ -195,15 +195,13 @@ service cloud.firestore {
 
 ## 📸 Screenshots
 
-_Coming soon._
-
 | Home / Products | Sell Flow | Analytics |
 |:-:|:-:|:-:|
-| `placeholder` | `placeholder` | `placeholder` |
+| ![Home](screenshots/home.png) | ![Sell](screenshots/sell.png) | ![Analytics](screenshots/analytics.png) |
 
 | Restock | History | Settings |
 |:-:|:-:|:-:|
-| `placeholder` | `placeholder` | `placeholder` |
+| ![Restock](screenshots/restock.png) | ![History](screenshots/history.png) | ![Settings](screenshots/settings.png) |
 
 ---
 
