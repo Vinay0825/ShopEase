@@ -207,6 +207,12 @@ service cloud.firestore {
 |:-:|:-:|
 | ![Analytics](screenshots/analytics.jpeg) | ![Low Stock Alert](screenshots/stock%20alert.jpeg) |
 
+### Excel Export Samples
+
+| Sales Report | Restock Report |
+|:-:|:-:|
+| ![Sales Export](screenshots/salesexc.png) | ![Restock Export](screenshots/restockexc.png) |
+
 ---
 
 ## 🤝 Contributing
