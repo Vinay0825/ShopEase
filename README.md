@@ -195,13 +195,17 @@ service cloud.firestore {
 
 ## 📸 Screenshots
 
-| Home / Products | Sell Flow | Analytics |
+| Home | Product List | Add Product |
 |:-:|:-:|:-:|
-| ![Home](screenshots/home.png) | ![Sell](screenshots/sell.png) | ![Analytics](screenshots/analytics.png) |
+| ![Home](screenshots/home.jpeg) | ![Product List](screenshots/prod%20list.jpeg) | ![Add Product](screenshots/add%20prod.jpeg) |
 
-| Restock | History | Settings |
+| Product Detail | Loose Item Barcode | History |
 |:-:|:-:|:-:|
-| ![Restock](screenshots/restock.png) | ![History](screenshots/history.png) | ![Settings](screenshots/settings.png) |
+| ![Product Detail](screenshots/prod%20detail.jpeg) | ![Loose Item Barcode](screenshots/loose%20item%20barcode.jpeg) | ![History](screenshots/history.jpeg) |
+
+| Analytics | Low Stock Alert |
+|:-:|:-:|
+| ![Analytics](screenshots/analytics.jpeg) | ![Low Stock Alert](screenshots/stock%20alert.jpeg) |
 
 ---
 
